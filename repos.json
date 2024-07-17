@@ -3,7 +3,8 @@
       "name": "gki-KernelSU",
       "repo": "https://github.com/aosp-mirror/kernel_common",
       "branch": "android14-5.15-lts",
-      "device": "gki"
+      "device": "gki",
+     "defconfig":"gki"
     },
     "withKernelSU": true,
     "toolchains": [
